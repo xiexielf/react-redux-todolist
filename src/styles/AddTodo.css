@@ -1,0 +1,32 @@
+.add-todo {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 0;
+  line-height: 35px;
+}
+
+.add-input {
+  height: 35px;
+  width: 200px;
+  padding: 0 7px;
+  font-size: 16px;
+  vertical-align: middle;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid #7e7a7a;
+}
+
+.add-btn {
+  box-sizing: content-box;
+  height: 35px;
+  padding: 0 15px;
+  margin-left: 5px;
+  font-size: 16px;
+  vertical-align: middle;
+  border: 1px solid #278be9;
+  color: #278be9;
+  background: #fff;
+  outline: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
